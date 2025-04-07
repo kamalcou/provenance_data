@@ -1,0 +1,3 @@
+/home/exouser/filemonitor/files/file1.txt
+/home/exouser/filemonitor/files/file2.txt
+/home/exouser/filemonitor/files/test1.h5

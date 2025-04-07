@@ -1,0 +1,51 @@
+File dimensions 2048X1024
+File size 8 MB
+ rank size=8 count=256 size=1024 Runtime is  0.017469 
+File dimensions 2048X1024
+File size 8 MB
+ rank size=8 count=256 size=1024 Runtime is  0.022687 
+File dimensions 2048X1024
+File size 8 MB
+ rank size=8 count=256 size=1024 Runtime is  0.021498 
+File dimensions 2048X1024
+File size 8 MB
+ rank size=8 count=256 size=1024 Runtime is  0.022598 
+File dimensions 2048X1024
+File size 8 MB
+ rank size=8 count=256 size=1024 Runtime is  0.016518 
+File dimensions 2048X1024
+File size 8 MB
+ rank size=8 count=256 size=1024 Runtime is  0.021800 
+File dimensions 2048X1024
+File size 8 MB
+ rank size=8 count=256 size=1024 Runtime is  0.016782 
+File dimensions 2048X1024
+File size 8 MB
+ rank size=8 count=256 size=1024 Runtime is  0.022694 
+File dimensions 2048X1024
+File size 8 MB
+ rank size=8 count=256 size=1024 Runtime is  0.022138 
+File dimensions 2048X1024
+File size 8 MB
+ rank size=8 count=256 size=1024 Runtime is  0.021007 
+File dimensions 2048X1024
+File size 8 MB
+ rank size=8 count=256 size=1024 Runtime is  0.022615 
+File dimensions 2048X1024
+File size 8 MB
+ rank size=8 count=256 size=1024 Runtime is  0.024991 
+File dimensions 2048X1024
+File size 8 MB
+ rank size=8 count=256 size=1024 Runtime is  0.021768 
+File dimensions 2048X1024
+File size 8 MB
+ rank size=8 count=256 size=1024 Runtime is  0.022352 
+File dimensions 2048X1024
+File size 8 MB
+ rank size=8 count=256 size=1024 Runtime is  0.022907 
+File dimensions 2048X1024
+File size 8 MB
+ rank size=8 count=256 size=1024 Runtime is  0.022313 
+File dimensions 2048X1024
+File size 8 MB
+ rank size=8 count=256 size=1024 Runtime is  0.023648 

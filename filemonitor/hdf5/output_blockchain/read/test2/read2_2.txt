@@ -1,0 +1,15 @@
+File dimensions 512X1024
+File size 2 MB
+ rank size=2 count=256 size=1024 Runtime is  0.013694 
+File dimensions 512X1024
+File size 2 MB
+ rank size=2 count=256 size=1024 Runtime is  0.012000 
+File dimensions 512X1024
+File size 2 MB
+ rank size=2 count=256 size=1024 Runtime is  0.015754 
+File dimensions 512X1024
+File size 2 MB
+ rank size=2 count=256 size=1024 Runtime is  0.010497 
+File dimensions 512X1024
+File size 2 MB
+ rank size=2 count=256 size=1024 Runtime is  0.015047 

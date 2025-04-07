@@ -1,0 +1,51 @@
+File dimensions 1024X1024
+File size 4 MB
+ rank size=4 count=256 size=1024 Runtime is  0.015589 
+File dimensions 1024X1024
+File size 4 MB
+ rank size=4 count=256 size=1024 Runtime is  0.016465 
+File dimensions 1024X1024
+File size 4 MB
+ rank size=4 count=256 size=1024 Runtime is  0.014349 
+File dimensions 1024X1024
+File size 4 MB
+ rank size=4 count=256 size=1024 Runtime is  0.014926 
+File dimensions 1024X1024
+File size 4 MB
+ rank size=4 count=256 size=1024 Runtime is  0.013701 
+File dimensions 1024X1024
+File size 4 MB
+ rank size=4 count=256 size=1024 Runtime is  0.013682 
+File dimensions 1024X1024
+File size 4 MB
+ rank size=4 count=256 size=1024 Runtime is  0.011752 
+File dimensions 1024X1024
+File size 4 MB
+ rank size=4 count=256 size=1024 Runtime is  0.014064 
+File dimensions 1024X1024
+File size 4 MB
+ rank size=4 count=256 size=1024 Runtime is  0.014493 
+File dimensions 1024X1024
+File size 4 MB
+ rank size=4 count=256 size=1024 Runtime is  0.013772 
+File dimensions 1024X1024
+File size 4 MB
+ rank size=4 count=256 size=1024 Runtime is  0.016726 
+File dimensions 1024X1024
+File size 4 MB
+ rank size=4 count=256 size=1024 Runtime is  0.014957 
+File dimensions 1024X1024
+File size 4 MB
+ rank size=4 count=256 size=1024 Runtime is  0.014466 
+File dimensions 1024X1024
+File size 4 MB
+ rank size=4 count=256 size=1024 Runtime is  0.013876 
+File dimensions 1024X1024
+File size 4 MB
+ rank size=4 count=256 size=1024 Runtime is  0.018026 
+File dimensions 1024X1024
+File size 4 MB
+ rank size=4 count=256 size=1024 Runtime is  0.015787 
+File dimensions 1024X1024
+File size 4 MB
+ rank size=4 count=256 size=1024 Runtime is  0.013805 

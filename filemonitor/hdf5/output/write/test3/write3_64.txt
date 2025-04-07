@@ -1,0 +1,66 @@
+File dimensions 16384X1024
+File size 64 MB
+ rank size=64 count=256 size=1024 Runtime is  0.029285 
+File dimensions 32768X1024
+File size 128 MB
+ rank size=64 count=512 size=1024 Runtime is  0.065662 
+File dimensions 65536X1024
+File size 256 MB
+ rank size=64 count=1024 size=1024 Runtime is  0.130689 
+File dimensions 131072X1024
+File size 512 MB
+ rank size=64 count=2048 size=1024 Runtime is  0.282069 
+File dimensions 262144X1024
+File size 1024 MB
+ rank size=64 count=4096 size=1024 Runtime is  0.526868 
+File dimensions 524288X1024
+File size 2048 MB
+ rank size=64 count=8192 size=1024 Runtime is  0.890220 
+File dimensions 1048576X1024
+File size 4096 MB
+ rank size=64 count=16384 size=1024 Runtime is  1.925174 
+File dimensions 2097152X1024
+File size 8192 MB
+ rank size=64 count=32768 size=1024 Runtime is  3.857415 
+File dimensions 4194304X1024
+File size 16384 MB
+ rank size=64 count=65536 size=1024 Runtime is  8.781433 
+File dimensions 8388608X1024
+File size 32768 MB
+ rank size=64 count=131072 size=1024 Runtime is  17.790559 
+File dimensions 16777216X1024
+File size 65536 MB
+ rank size=64 count=262144 size=1024 Runtime is  44.945125 
+File dimensions 16384X1024
+File size 64 MB
+ rank size=64 count=256 size=1024 Runtime is  0.030632 
+File dimensions 32768X1024
+File size 128 MB
+ rank size=64 count=512 size=1024 Runtime is  0.066058 
+File dimensions 65536X1024
+File size 256 MB
+ rank size=64 count=1024 size=1024 Runtime is  0.119178 
+File dimensions 131072X1024
+File size 512 MB
+ rank size=64 count=2048 size=1024 Runtime is  0.311009 
+File dimensions 262144X1024
+File size 1024 MB
+ rank size=64 count=4096 size=1024 Runtime is  0.536595 
+File dimensions 524288X1024
+File size 2048 MB
+ rank size=64 count=8192 size=1024 Runtime is  1.012893 
+File dimensions 1048576X1024
+File size 4096 MB
+ rank size=64 count=16384 size=1024 Runtime is  1.782797 
+File dimensions 2097152X1024
+File size 8192 MB
+ rank size=64 count=32768 size=1024 Runtime is  3.950028 
+File dimensions 4194304X1024
+File size 16384 MB
+ rank size=64 count=65536 size=1024 Runtime is  8.976733 
+File dimensions 8388608X1024
+File size 32768 MB
+ rank size=64 count=131072 size=1024 Runtime is  23.440929 
+File dimensions 16777216X1024
+File size 65536 MB
+ rank size=64 count=262144 size=1024 Runtime is  41.047095 

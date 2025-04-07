@@ -1,0 +1,75 @@
+File dimensions 4096X1024
+File size 16 MB
+ rank size=16 count=256 size=1024 Runtime is  0.023512 
+File dimensions 8192X1024
+File size 32 MB
+ rank size=16 count=512 size=1024 Runtime is  0.038675 
+File dimensions 16384X1024
+File size 64 MB
+ rank size=16 count=1024 size=1024 Runtime is  0.069878 
+File dimensions 32768X1024
+File size 128 MB
+ rank size=16 count=2048 size=1024 Runtime is  0.134838 
+File dimensions 65536X1024
+File size 256 MB
+ rank size=16 count=4096 size=1024 Runtime is  0.223197 
+File dimensions 131072X1024
+File size 512 MB
+ rank size=16 count=8192 size=1024 Runtime is  0.496080 
+File dimensions 262144X1024
+File size 1024 MB
+ rank size=16 count=16384 size=1024 Runtime is  1.074935 
+File dimensions 524288X1024
+File size 2048 MB
+ rank size=16 count=32768 size=1024 Runtime is  1.663488 
+File dimensions 1048576X1024
+File size 4096 MB
+ rank size=16 count=65536 size=1024 Runtime is  3.731993 
+File dimensions 2097152X1024
+File size 8192 MB
+ rank size=16 count=131072 size=1024 Runtime is  6.820027 
+File dimensions 4194304X1024
+File size 16384 MB
+ rank size=16 count=262144 size=1024 Runtime is  14.174788 
+File dimensions 4096X1024
+File size 16 MB
+ rank size=16 count=256 size=1024 Runtime is  0.017137 
+File dimensions 4096X1024
+File size 16 MB
+ rank size=16 count=256 size=1024 Runtime is  0.017358 
+File dimensions 4096X1024
+File size 16 MB
+ rank size=16 count=256 size=1024 Runtime is  0.023509 
+File dimensions 4096X1024
+File size 16 MB
+ rank size=16 count=256 size=1024 Runtime is  0.028660 
+File dimensions 4096X1024
+File size 16 MB
+ rank size=16 count=256 size=1024 Runtime is  0.021887 
+File dimensions 4096X1024
+File size 16 MB
+ rank size=16 count=256 size=1024 Runtime is  0.024957 
+File dimensions 4096X1024
+File size 16 MB
+ rank size=16 count=256 size=1024 Runtime is  0.021617 
+File dimensions 4096X1024
+File size 16 MB
+ rank size=16 count=256 size=1024 Runtime is  0.015922 
+File dimensions 4096X1024
+File size 16 MB
+ rank size=16 count=256 size=1024 Runtime is  0.019775 
+File dimensions 4096X1024
+File size 16 MB
+ rank size=16 count=256 size=1024 Runtime is  0.023445 
+File dimensions 4096X1024
+File size 16 MB
+ rank size=16 count=256 size=1024 Runtime is  0.024392 
+File dimensions 4096X1024
+File size 16 MB
+ rank size=16 count=256 size=1024 Runtime is  0.024044 
+File dimensions 4096X1024
+File size 16 MB
+ rank size=16 count=256 size=1024 Runtime is  0.022919 
+File dimensions 4096X1024
+File size 16 MB
+ rank size=16 count=256 size=1024 Runtime is  0.027776 
